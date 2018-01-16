@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.deps.json
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.json
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.dev.json
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfo.cs
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\User\Documents\Pluralsight Moq testing\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.pdb
